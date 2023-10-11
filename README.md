@@ -1,6 +1,6 @@
 # NFT PREVIEW CARD COMPONENT - FRONTEND MENTOR
 
-[<img src = "src/images/nft-preview.gif" alt="gif da versão desktop da página">](https://rrsf95.github.io/quest-css-html-avancado/)
+[<p align="center"><img src = "src/images/nft-preview.gif" alt="gif da versão desktop da página">](https://rrsf95.github.io/frontend-mentor-nft-preview-card/)</p>
 
 
 ## DESCRIÇÃO ✔
@@ -29,7 +29,7 @@ git clone https://github.com/RRSF95/frontend-mentor-nft-preview-card.git
 
 Caso queira somente visualizar a página, pode visitar o link abaixo:
 
-https://rrsf95.github.io/quest-css-html-avancado/
+https://rrsf95.github.io/frontend-mentor-nft-preview-card/
 
 ## STATUS DO PROJETO 🏆
 O projeto já está finalizado.
